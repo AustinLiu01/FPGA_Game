@@ -12,4 +12,4 @@
  tips:
  limited by some con's of the switch,maybe some bugs will appear, but don't worry about that, most of the codes are correct,
  but if you change a new(useful)device,we believe you can get the corrct result.
- 
+ update in 2020.07.10:  the lcd_test.v is useless
