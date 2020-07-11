@@ -2,7 +2,7 @@
  this is a game about poke a mole
  and Game.v is the top level file in this projiect
  if you want to run the code in your device
- just use the DE2-115 from Altera,and just copy the Game.sof,and it can satisfy your needs
+ just use the DE2-115 from Altera,and just copy the Game.sof,and it can satisfy your needs.
  if you still want to understand more details, you can download ohther files.
  But I think this step may be is unnnecessary for you,because they misses coments currently,
  maybe we will make them perfect in the future(or if we have some time),at last,we sincerely hope you can have a good time.
@@ -13,3 +13,4 @@
  limited by some con's of the switch,maybe some bugs will appear, but don't worry about that, most of the codes are correct,
  but if you change a new(useful)device,we believe you can get the corrct result.
  update in 2020.07.10:  the lcd_test.v is useless
+ update in 2020.07.11: the D_Latch2.v and clk_div.v are useless,just ignore them.
