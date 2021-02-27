@@ -1,5 +1,5 @@
 # FPGA_Game
- this is a game about poke a mole
+ This is a game about poke a mole
  and Game.v is the top level file in this projiect
  if you want to run the code in your device
  just use the DE2-115 from Altera,and just copy the Game.sof,and it can satisfy your needs.
